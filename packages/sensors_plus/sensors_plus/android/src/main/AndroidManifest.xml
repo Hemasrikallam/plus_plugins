@@ -1,1 +1,3 @@
-<manifest package="dev.fluttercommunity.plus.sensors" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Other manifest entries -->
+</manifest>
